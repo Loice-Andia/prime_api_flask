@@ -1,1 +1,1 @@
-web: python prime.py
+web: gunicorn prime:app
